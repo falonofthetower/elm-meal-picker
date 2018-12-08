@@ -1,0 +1,24 @@
+{
+  "name": "Elm-Meal-Picker",
+  "version": "1.0.0",
+  "description": "A growing Elm App",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "elm-app build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/falonofthetower/elm-meal-picker.git"
+  },
+  "author": "Peter Karth",
+  "bugs": {
+    "url": "https://github.com/falonofthetower/elm-meal-picker/issues"
+  },
+  "homepage": "https://github.com/falonofthetower/elm-meal-picker#readme",
+  "devDependencies": {
+    "create-elm-app": "^2.2.3"
+  }
+}
